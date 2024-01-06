@@ -1,0 +1,21 @@
+{
+  "name": "tu-bus-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "@supabase/supabase-js": "^2.26.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2"
+  }
+}
